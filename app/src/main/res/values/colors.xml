@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EC4720</color>
+    <color name="colorPrimaryDark">#EC4720</color>
+    <color name="colorAccent">#EC4720</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorYellow">#fbff00</color>
+    <color name="colorSmiledu">#EC4720</color>
+    <color name="colorEmpty">#F2F2F2</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="colorTransparentDark">#a8000000</color>
+    <color name="colorTextDisabled">#dfe0df</color>
+    <color name="colorTextButtonDisabled">#9a9b9a</color>
+    <color name="colorButtonDisabled">#c8c7c8</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorTextDisable">#66FFFFFF</color>
+    <color name="colorTesoreria">#43aca1</color>
+    <color name="colorTextBold">#797979</color>
+    <color name="colorText">#7d7e7d</color>
+    <color name="colorSkeleton">#efefef</color>
+    <color name="colorShimmerSkeleton">#ffffff</color>
+
+    <color name="colorLine">#dfdfdf</color>
+    <color name="colorButtonPrimary">#E6A43A</color>
+    <color name="colorButtonPrimaryRipple">#80e6a43a</color>
+
+    <color name="dot_active">#000000</color>
+    <color name="dot_inactive">#cccccc</color>
+
+    <color name="selector_row">#FFDDDEDD</color>
+    <color name="divider">#FFDDDEDD</color>
+    <color name="footer">#dee0df</color>
+    <color name="icons">#9b9b9b</color><!--#666666-->
+
+    <color name="colorBtnIniciarSesion">#4aa636</color>
+</resources>

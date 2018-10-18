@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/appBarLight">
+
+    <ImageView
+        android:id="@+id/img_toolbar_login"
+        android:layout_width="110dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:src="@drawable/smiledu_app_logo"/>
+
+</android.support.v7.widget.Toolbar>

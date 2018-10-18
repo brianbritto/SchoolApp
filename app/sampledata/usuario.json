@@ -1,0 +1,8 @@
+{
+  "data" :[
+    {"codigo": 1, "nombres" : "Brian Gustavo Britto Juro", "edad":"28", "usuario":"brianbritto", "clave":"123456"},
+    {"codigo": 2, "nombres" : "Jorge Cruz Vega", "edad":"30", "usuario":"jorgecruz","clave":"123456"},
+    {"codigo": 3, "nombres" : "José Monterrico Paz", "edad":"55", "usuario":"josemonterrico","clave":"123456"},
+    {"codigo": 4, "nombres" : "Carlos Reyes Beta", "edad":"40", "usuario":"carlosreyes","clave":"123456"}
+  ]
+}

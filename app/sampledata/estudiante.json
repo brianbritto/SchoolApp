@@ -1,0 +1,9 @@
+{
+  "data" :[
+    {"codigo": 1, "nombres" : "Brian Gustavo Britto Juro", "edad":"11", "codigoPadre":"1"},
+    {"codigo": 2, "nombres" : "Jorge Cruz Vega", "edad":"10", "codigoPadre":"1"},
+    {"codigo": 3, "nombres" : "Jose Monterrico Paz", "edad":"15", "codigoPadre":"2"},
+    {"codigo": 4, "nombres" : "Carlos Reyes Beta", "edad":"12", "codigoPadre":"3"},
+    {"codigo": 5, "nombres" : "Saul Montana", "edad":"8", "codigoPadre":"4"}
+  ]
+}
